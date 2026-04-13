@@ -32,6 +32,6 @@ mainClassName = 'App'
 
 task display{
 doLast{
-println 'Good Morning its a devops class'
+println 'Good Morning. Its a DevOps class'
 }
 }
