@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'master', url: 'https://github.com/mithun2311/MyGradleApp.git'
+                git branch: 'master', url: 'https://github.com/Hemanth-bs/MyGradleApp.git'
             }
         }
 
